@@ -25,7 +25,7 @@ SECRET_KEY = '8ocl#o)rb=*iz6@f2hz_zbvh_fc6)b+a@-1y&hnw1$vrkh_!-l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', 'oozin-ubuntu', '172.20.81.91']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', 'localhost', 'oozin-ubuntu', '172.20.81.91']
 
 
 # Application definition
